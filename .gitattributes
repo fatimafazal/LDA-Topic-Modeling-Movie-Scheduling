@@ -1,0 +1,6 @@
+# Specify R language files
+*.R linguist-language=R
+*.Rmd linguist-language=R
+
+# Optionally, mark HTML files as documentation
+*.html linguist-documentation
